@@ -24,3 +24,6 @@ nothing fancy
 
 The Project Structure looks something like this ->
 
+<img width="452" height="202" alt="image" src="https://github.com/user-attachments/assets/757308ff-331b-4576-9f3a-94a480efbd85" />
+
+
