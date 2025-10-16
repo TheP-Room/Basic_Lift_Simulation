@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Lift
+comment1.params=callFromLevel
+comment1.target=Lift(int)
+comment2.params=
+comment2.target=void\ enter()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ exit()
+comment5.params=
+comment5.target=void\ setRoute()
+comment6.params=
+comment6.target=void\ askLevel()
+comment7.params=level
+comment7.target=java.lang.String\ parseLevelName(int)
+numComments=8

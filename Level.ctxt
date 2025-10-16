@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Level
+comment0.text=\n\ \n\ It\ is\ a\ custom\ made\ doubly\ linked\ list\ class\ to\ be\n\ used\ in\ moving\ from\ one\ level\ to\ another,\ contains\n\ mostly\ private\ fields\ and\ methods\ just\ print\ methods\n\ are\ public\n\n\ @author\ TheP-Room\n\ @version\ Java\ 24.0.2\n
+comment1.params=totalLevels
+comment1.target=Level(int)
+comment2.params=level
+comment2.target=void\ addLevel(int)
+comment3.params=
+comment3.target=void\ print()
+comment4.params=
+comment4.target=void\ run()
+comment5.params=initial\ end\ isForward
+comment5.target=void\ printFromTo(int,\ int,\ boolean)
+numComments=6
